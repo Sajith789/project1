@@ -1,0 +1,7 @@
+#program - 2
+a1= input("Enter filename: ")
+a= a1.split(".")
+print("extension of the file is : " + a[1])
+#output
+Enter filename: read.txt
+extension of the file is : txt
